@@ -1,4 +1,4 @@
-# Contoh Alikasi menggunakan Inertia + React JS
+# Contoh Aplikasi menggunakan Inertia + React JS
 
 Menggunakan SHADCN UI untuk komponen ui dan Tailwind CSS untuk styling.
 
